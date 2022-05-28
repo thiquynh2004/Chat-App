@@ -62,7 +62,7 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/txtEmail"
+            android:id="@+id/email"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="332dp"
             android:layout_height="wrap_content"
@@ -77,7 +77,7 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/txtPassword"
+            android:id="@+id/password"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="332dp"
             android:layout_height="wrap_content"
@@ -96,10 +96,10 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/txtConfirmPassword"
+            android:id="@+id/confirmPassword"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="332dp"
-            android:layout_height="50dp"
+            android:layout_height="wrap_content"
             android:background="@color/white"
             android:hint="@string/confirm_password"
             android:inputType="textPassword"
