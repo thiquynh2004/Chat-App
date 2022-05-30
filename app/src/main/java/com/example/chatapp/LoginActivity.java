@@ -83,7 +83,7 @@ public class LoginActivity extends AppCompatActivity implements  View.OnClickLis
 
                     assert user != null;
                     if(user.isEmailVerified()){
-                        startActivity(new Intent(LoginActivity.this, UserInformation.class));
+                        startActivity(new Intent(LoginActivity.this, MainActivity.class));
                     }
                     else{
                         user.sendEmailVerification();

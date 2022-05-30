@@ -4,10 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.13949275362318841" />
+        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/activity_register.xml" value="0.16666666666666666" />
         <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/activity_start_screen.xml" value="0.1" />
         <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/activity_user_information.xml" value="0.1578125" />
+        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/bottom_navigation.xml" value="0.1578125" />
+        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/fragment_contact.xml" value="0.1578125" />
+        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/fragment_message.xml" value="0.1578125" />
+        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/fragment_profile.xml" value="0.1578125" />
+        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/layout/fragment_search.xml" value="0.1578125" />
+        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/menu/bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/LapTrinhThietBiDiDong/ChatApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>
